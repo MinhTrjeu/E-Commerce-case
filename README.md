@@ -1,1 +1,1 @@
-# E--Commerce-case
+ Case Study - E-commerce Company
