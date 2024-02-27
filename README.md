@@ -3,7 +3,7 @@ Case Study - E-commerce Company
 
 # 1. Overall 
 
-[image-1](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/b8d74b85-5ecf-4afa-b47f-2890baba046c)
+![image-1](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/b8d74b85-5ecf-4afa-b47f-2890baba046c)
 - Over 100000 Brazilians have shopped on our e-commerce platform and other channels in the past three years. During this time, they have placed approximately 
   - 103000 orders, purchases and generating total revenue of 16 million Brazilian reais..
   - Total 73 category of product was sold with the most purchased product category is tablewae in the bedroom and bathroom
