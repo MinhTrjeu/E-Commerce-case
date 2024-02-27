@@ -24,7 +24,8 @@ São Paulo (SP) and Rio de Janeiro (RJ) stand out as the states with the highest
 
 # 2. Sale and Product
 
-![alt text](image-3.png)
+![image-2](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/41340fba-e075-4374-a05b-a6eca5ae10b4)
+
 
 Product Category and Revenue:
 
@@ -38,8 +39,7 @@ Product Category and Revenue:
 ---
 
 # 3. Orders
-
-![alt text](image-6.png)
+![image-6](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/b1542135-a439-4d1a-8eba-2f12d24d5d4e)
 
 Delivery Performance:
 
@@ -50,15 +50,15 @@ Delivery Performance:
 --- 
 # 4. Transaction
 
-![alt text](image-7.png)
-
+![image-7](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/c7a317e5-7048-4758-a833-773c9a50e836)
 
 
 - Payment Methods:
 
     - Credit cards: Dominating the landscape with approximately 87,000 orders, credit cards are the preferred choice due to their convenience and ease of use.
     - Installments: Many credit cards are linked with bank installment plans, offering customers flexible payment options and further increasing their favorability.
-  ![all text](image-8.png)
+    - ![image-8](https://github.com/MinhTrjeu/E--Commerce-case/assets/102146205/0f799f5f-102d-4036-a170-afb050bafca0)
+
 
 - Based on the Payment Installments chart, it can be observed that nearly ⅓ of customers use Credit Cards but still choose to pay in 1 installment. This is also the payment method with the most customers using. This is also a point that sellers should note, applying many promotional programs for the customer group using credit cards
 
