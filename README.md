@@ -5,6 +5,7 @@ Customer satisfaction.
 2 to 3 areas of recommendation (areas) where the company can improve.
 
 What can I practice with this case study:
+
 Python: 
   - pandas, numpy,matplotlib,seaborn.
   - cleaning, check Null values, transforming.
