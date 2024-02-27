@@ -3,7 +3,7 @@ Case Study - E-commerce Company
 
 # 1. Overall 
 
-![alt text](image-1.png)
+![alt text]([image-1.png](https://ibb.co/bQYN5zZ))
 
 - Over 100000 Brazilians have shopped on our e-commerce platform and other channels in the past three years. During this time, they have placed approximately 
   - 103000 orders, purchases and generating total revenue of 16 million Brazilian reais..
