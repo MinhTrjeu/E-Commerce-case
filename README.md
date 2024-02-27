@@ -16,3 +16,5 @@ Python:
   - Analyze
   - Measure, DAX, etc
   - Import CSV File and Transform data
+
+Dataset available at: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
