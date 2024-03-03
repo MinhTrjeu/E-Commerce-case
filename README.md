@@ -18,3 +18,4 @@ Python:
   - Import CSV File and Transform data
 
 Dataset available at: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Data Schema ![image](https://github.com/MinhTrjeu/E-Commerce-case/assets/102146205/3f0c5c6b-7f6f-4ba7-bdda-beafdfe8bc29)
